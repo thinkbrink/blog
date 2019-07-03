@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zh on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/categories/zh/</link>
+    <description>Recent content in zh on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jun 2019 15:00:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CMT 手机权益投票已经上线，快来获取区块奖励吧</title>
+      <link>http://blog.cybermiles.io/post/20190625-cmt-staking-zh/</link>
+      <pubDate>Tue, 25 Jun 2019 15:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190625-cmt-staking-zh/</guid>
+      <description>CyberMiles APP（原CMT Wallet）3.0 正式上线，*手机APP权益投票CMT功能上线了*！现在用户可以使用CyberMiles APP 将CMT 权益投</description>
+    </item>
+    
+    <item>
+      <title>如何使用CyberMiles APP 进行权益投票，获取区块奖励</title>
+      <link>http://blog.cybermiles.io/post/20190625-cmt-staking-tutorial-zh/</link>
+      <pubDate>Tue, 25 Jun 2019 15:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190625-cmt-staking-tutorial-zh/</guid>
+      <description>CyberMiles APP（原CMT Wallet）已经开通权益投票功能，现在CMT 持有者可以通过手机APP获得区块奖励收入啦！ 经过主链升级后，现在区块奖励的主</description>
+    </item>
+    
+    <item>
+      <title>FairPlay：一种新型DApp</title>
+      <link>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</link>
+      <pubDate>Fri, 21 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</guid>
+      <description>什么是FairPlay FairPlay 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 公链新上线超级节点SNZ Holding</title>
+      <link>http://blog.cybermiles.io/post/20190618-cmts-staking-zh/</link>
+      <pubDate>Tue, 18 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190618-cmts-staking-zh/</guid>
+      <description>CyberMiles 公链新上线了超级节点SNZ Holding。SNZ Holding 将自我权益投票300万CMT，报酬比率为25%。 SNZ Holding致力于提供专业的POS矿</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles公链双周报(0614更新)</title>
+      <link>http://blog.cybermiles.io/post/20190614-biweeklyreport-zh/</link>
+      <pubDate>Fri, 14 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190614-biweeklyreport-zh/</guid>
+      <description>大家好, 为您带来CyberMiles 公链在2019.05.25-2019.06.14期间的进展。 Ps: 上周因为端午小长假，推迟一周更新双周报 1.CMT Wallet</description>
+    </item>
+    
+    <item>
+      <title>FairPlayDApp-最公平的抽奖工具</title>
+      <link>http://blog.cybermiles.io/post/20190604-fairplay-zh/</link>
+      <pubDate>Tue, 04 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190604-fairplay-zh/</guid>
+      <description>通过FairPlay智能合约，任何人都可以创建发起任何通过电商销售的商品抽奖，可以是数字产品，实体商品。 FairPlay DApp内置智能合约搜索引擎。通过</description>
+    </item>
+    
+    <item>
+      <title>服务中断事件回溯</title>
+      <link>http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/</link>
+      <pubDate>Mon, 27 May 2019 17:07:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/</guid>
+      <description>tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你</description>
+    </item>
+    
+    <item>
+      <title>Building a safer crypto token</title>
+      <link>http://blog.cybermiles.io/post/20190524-biweekly-report-zh/</link>
+      <pubDate>Thu, 23 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190524-biweekly-report-zh/</guid>
+      <description>CyberMiles公链在过去两周(2019.05.11——05.24)期间的进展： * 5miles数据上链完成 * CMT Wallet 权益投票功能开发进展 * FairPlay</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 主链成功升级，支持CMT Wallet 参与权益投票的接口</title>
+      <link>http://blog.cybermiles.io/post/20190523-mainnet-upgrade-zh/</link>
+      <pubDate>Thu, 23 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190523-mainnet-upgrade-zh/</guid>
+      <description>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年5月23日成功地进行了无分叉的软件升级。本次升级至v0.1.8</description>
+    </item>
+    
+    <item>
+      <title>5miles数据上链完成，CyberMiles公链生态渐显</title>
+      <link>http://blog.cybermiles.io/post/20190513-5milesdata1-zh/</link>
+      <pubDate>Mon, 13 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190513-5milesdata1-zh/</guid>
+      <description>区块链+电商的概念已经不再陌生。2018年，不仅有像CyberMiles 这样垂直电商行业的公链出现，进行过电商支付的尝试，也有京东，苏宁易购</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles基金会解锁情况说明</title>
+      <link>http://blog.cybermiles.io/post/20190508-cmtrelease-zh/</link>
+      <pubDate>Wed, 08 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190508-cmtrelease-zh/</guid>
+      <description>各位CMT持有者，大家好！ 按照白皮书的规划，CyberMiles基金会地址0x1a14Ec3003C943a0624C7c513D50255</description>
+    </item>
+    
+    <item>
+      <title>社区投票：CMT Wallet是否应该尽快开通权益投票功能</title>
+      <link>http://blog.cybermiles.io/post/20190417-vote-zh/</link>
+      <pubDate>Wed, 17 Apr 2019 18:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190417-vote-zh/</guid>
+      <description>考虑到社区的意见和建议，CyberMiles基金会于4月14日发起了#是否支持开放CMT Wallet参与权益投票功能#的社区投票。 经过CMT</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles主链升级完成，取消权益投票期间也有收益</title>
+      <link>http://blog.cybermiles.io/post/20190404-mainnetupdate-zh/</link>
+      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-mainnetupdate-zh/</guid>
+      <description>4月4日，CyberMiles主链在19位验证人的协作下，已完成了v0.1.7-beta的升级。 这次的升级除了虚拟机功能的升级外，对DPoS</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles主链成功升级，亮点在哪里？</title>
+      <link>http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/</link>
+      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/</guid>
+      <description>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberM</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles公链2019路线图</title>
+      <link>http://blog.cybermiles.io/post/20190329-roadmap-zh/</link>
+      <pubDate>Fri, 29 Mar 2019 14:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190329-roadmap-zh/</guid>
+      <description>CyberMiles 是专为电商优化的公链，因此，我们更新了2019年的发展路线图。我们的工作重心将放在区块链技术如何更好地为电商行业服务，比如如何设计开发一个</description>
+    </item>
+    
+    <item>
+      <title>5miles数据上链进展情况</title>
+      <link>http://blog.cybermiles.io/post/20190301-5miles-zh/</link>
+      <pubDate>Fri, 01 Mar 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190301-5miles-zh/</guid>
+      <description>大家好！ 5miles数据上链是电商行业应用区块链技术的一次重要探索。CyberMiles基金会的目标是帮助5miles实现世界上第一个大型去</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles公链双周报</title>
+      <link>http://blog.cybermiles.io/post/20190118-newsletter-zh/</link>
+      <pubDate>Fri, 18 Jan 2019 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190118-newsletter-zh/</guid>
+      <description>各位好，CyberMiles 公链在2019.01.05-2019.01.18 期间进展如下： 5miles 将使用CyberMiles 公链进行区块链改造 CyberMiles 创</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 2018年回顾</title>
+      <link>http://blog.cybermiles.io/post/20190118-yearend-zh/</link>
+      <pubDate>Fri, 18 Jan 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190118-yearend-zh/</guid>
+      <description>一张图带你了解CyberMiles的2018年</description>
+    </item>
+    
+  </channel>
+</rss>

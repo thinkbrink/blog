@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart contract on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/smart-contract/</link>
+    <description>Recent content in smart contract on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2019 15:30:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/smart-contract/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FairPlay：一种新型DApp</title>
+      <link>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</link>
+      <pubDate>Fri, 21 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</guid>
+      <description>什么是FairPlay FairPlay 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，</description>
+    </item>
+    
+    <item>
+      <title>FairPlay: a new type of DApp</title>
+      <link>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</link>
+      <pubDate>Thu, 20 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</guid>
+      <description>Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.
+What is FairPlay FairPlay uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains.</description>
+    </item>
+    
+    <item>
+      <title>FairPlay: Win a pizza on the Bitcoin Pizza Day</title>
+      <link>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</link>
+      <pubDate>Tue, 21 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</guid>
+      <description>FairPlay will choose 4 lucky winners, and give away Domino&amp;rsquo;s pizza gift cards ($15 each) on May 22nd!
+May 22nd is known as the Bitcoin Pizza Day. On that day, we celebrate the most “expensive” pizza bought in human history!
+On May 22nd 2010, Laszlo Hanyecz, a computer programmer in Florida, paid a Bitcoin Talk forum user 10,000 BTC to get two pizzas. In today&amp;rsquo;s Bitcoin value, he paid more than $400 million US Dollars for each pizza.</description>
+    </item>
+    
+    <item>
+      <title>I accidentally killed it (and evaporated $300 million)</title>
+      <link>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</link>
+      <pubDate>Sat, 11 Nov 2017 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</guid>
+      <description>Github user devops199 said on Twitter “I accidentally killed it”. Before anyone can blink an eye, his “accident” has “killed” Ethereum accounts holding over $300M in crypto assets. On average, each of his 4 words cost $75M.
+One of those Ethereum accounts belongs to the Polkadot project, and it held close to $90M before it was “killed”.
+Someone asked devops199 after the incident: Why did you do it? His response?</description>
+    </item>
+    
+    <item>
+      <title>What is CyberMiles?</title>
+      <link>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</link>
+      <pubDate>Sun, 15 Oct 2017 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</guid>
+      <description>What makes the CyberMiles blockchain and tokens so unique? Why do we call the CyberMiles Token (CMT) the “master token” for e-commerce? Join us through our token sale event!
+ CyberMiles is a next generation blockchain for smart contracts. Its Smart Business Contract is designed to be far more powerful than Ethereum Smart Contracts. It will be the next generation Ethereum (ETH).  2.CyberMiles is optimized for e-commerce applications. It will provide a large library of commerce-related Smart Business Contracts, making it a breeze to build decentralized commerce applications.</description>
+    </item>
+    
+  </channel>
+</rss>
