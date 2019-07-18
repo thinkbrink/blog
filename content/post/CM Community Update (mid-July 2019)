@@ -1,0 +1,51 @@
+CyberMiles Community Update (mid-July 2019)
+Vitalik speaks (re: CM), our app stakes (CMT), a “smart contract first” take, and more
+
+1. Ethereum co-founder on transaction fees (including CyberMiles’)
+
+On Twitter, Balaji S. Srinivasan, former CTO of Coinbase, recently referenced the “network defect” (i.e. when increasing the size beyond a certain point decreases the value of a network). Replying to this “anti-network effect,” Vitalik Buterin noted the “congestion and non-scalability of certain traits of communities,” sharing a prime example: https://twitter.com/VitalikButerin/status/1145165787998482432
+
+In response, Dr. Michael Yuan, CyberMiles’ co-founder, elaborated:
+As a decentralized e-commerce platform, designed alt gas mechanisms for the EVM to improve UX (metered free TX, dev pays gas, etc.). A nice side effect is that CM could be an agile “test ground” for new language and VM features for the Ethereum community.
+
+Follow the conversation on Twitter: https://twitter.com/balajis/status/1145044587771072512
+
+2. How to stake CyberMiles Tokens in our app
+
+Interested in participating in CMT staking and getting block awards with CyberMiles’ app? If so, you can download it here and learn more at https://blog.cybermiles.io.
+
+3. CyberMiles (CMT) now listed on SwitchDex
+
+SwitchDex, a decentralized exchange running on the Ethereum blockchain, has listed CyberMiles (CMT). SwitchDex itself touts “no restrictions on limits, no restrictions on jurisdictions, and of course no user information is collected.” Read more about this move at https://medium.com/@SwitchDex.
+
+4. A new blockchain-based enterprise solution for businesses
+
+From the creators of CyberMiles comes Second State, a provider of turn-key blockchain and smart contract solutions for businesses. Second State blockchain are completely open source, programmable by its enterprise customers and optimized for business use cases. They are supported by commercial service agreements. Learn more at https://www.secondstate.io.
+
+5. ICYMI: Smart contracts on Libra
+
+Since last month’s announcement, much has been made of Facebook’s Libra project. Among the more talked-about questions:
+Will I be able to deploy Smart Contracts on the Libra blockchain? https://insidelibra.org/t/will-i-be-able-to-deploy-smart-contracts-on-the-libra-blockchain/13/2
+
+In the announcement about Libra coin I saw that with the newly introduced Move language, developers will be able to…
+insidelibra.org
+
+Yes, you’ll be able to design and deploy smart contracts on Libra. As a matter of fact, smart contracts are a big thing on the Libra blockchain, according to insidelibra.org.
+
+CyberMiles’ Dr. Michael Yuan pointed out the fundamental differences of “traditional” blockchains that support smart contracts (Bitcoin, Ethereum) and Libra:
+
+One of the most striking design features of Libra is its ‘smart contract first’ approach. One could argue that even on a smart contract platform like Ethereum, smart contract executions are just one type of transactions. Ethereum’s ‘native’ operations are still coin transactions. Libra is different. Smart contracts are first class citizens on Libra.
+
+This is a potential game changer. Making “money smart” by design will enable many, many different use cases emerging.
+
+Check out Dr. Yuan’s analysis, including a deep dive into a Libra transaction, on Hackernoon: https://hackernoon.com/does-facebooks-libra-deserve-the-hatred-of-the-crypto-community-a-neutral-analysis-cc5889fb43ce
+
+To connect with or follow the CyberMiles community, visit cybermiles.io or any of the following:
+
+Facebook
+Github
+Medium
+Toutiao
+Twitter
+WeChat
+Weibo
