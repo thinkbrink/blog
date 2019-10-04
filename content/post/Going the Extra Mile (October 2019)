@@ -1,0 +1,94 @@
+Announcements
+
+CyberMiles Token Release: Q3 2019
+
+20 million CMT will be unlocked Oct. 8. This scheduled release is in accordance with the plan outlined in our white paper.
+The CyberMiles Foundation (address: 0x1a14Ec3003C943a0624C7c513D502559c8b1b041) itself holds 200 million CMT, 10% of which are to be released every quarter. More details can be found at https://blog.cybermiles.io/post/20190927-cmtrelease-en.
+
+Ethereum Classic Partners With New Blockchain Startup, Created by CyberMiles’ Co-Founder
+
+CoinTelegraph reported that Ethereum Classic Labs, which develops and maintains Ethereum’s blockchain, is partnering with Second State on building the next generation Ethereum infrastructure.
+
+As an ETC partner, Second State will create an open-source toolchain and runtime software that powers the next generation of Ethereum-compatible blockchains, bringing “high-impact enhancements into the ETC ecosystem.”
+
+Having raised millions in VC funding, Second State already has made progress by launching its BUIDL IDE for ETC. Learn more at https://blog.secondstate.io/post/20190925-buidl-for-etc.
+
+CyberMiles’ Engineers to Present at Devcon5 in Osaka, Japan
+
+The CyberMiles engineering team has been working hard to make the Lity virtual machine more e-commerce-friendly. As detailed in our white paper, the Business Rules Engine (BRE) aligns well with the smart contract, immutable programs on CyberMiles’ blockchain.
+
+As BREs automatically evaluate and execute based on pre-defined rules, they’ve proven successful in traditional financial services. Learn more at https://blog.cybermiles.io/post/20191002-cybermilesdevcon5-en.
+
+The CyberMiles Foundation Unveils the Structure for a New, Fully-Decentralized Marketplace
+
+The entire tech structure of OpenBay, a brand new peer-to-peer marketplace to run on CyberMiles’ public blockchain, is now available: https://twitter.com/cybermiles/status/1171058556499415040. Additionally, the open-source code can be accessed on GitHub, further enabling anyone to use the code to build a marketplace of his or her own: https://github.com/CyberMiles/marketplace
+
+In the News
+
+Chinese Homecoming — Crypto Companies Make Their Way Back to Asia
+
+In a major step forward, Binance, one of the world’s leading cryptocurrency exchanges, is set to make its first strategic investment in China since leaving the country in 2017. That’s according to its CEO Changpeng Zhao.
+
+At the time, the Chinese government had enforced a local crypto trading ban that resulted in a number of firms either shutting down completely or relocating to more hospitable countries.
+
+According to Dr. Michael Yuan of OpenBay, a new decentralized marketplace on the CyberMiles blockchain:
+
+"Binance operates in an unregulated financial market where they can be the exchange, the market maker, the investment bank, and the early-stage investor — all at the same time. That is the source of their enormous profits. But they cannot play this game forever. They will be regulated."
+
+The People’s Bank of China, like all central banking institutions, is not keen on currencies outside its control; however, it has no issues with cryptocurrencies or blockchain technology that can remain under its purview at all times, Michael added. For Binance, the upside is clear.
+
+"The company is playing the long game. Most of their users are Chinese nationals, so I think it is only natural for them to invest in Chinese projects."
+
+Read more about this development at https://cointelegraph.com/news/chinese-homecoming-crypto-companies-make-their-way-back-to-asia.
+
+Smart Contracts Are a Boon for the Defense Industry
+
+The military industry is based on three components that play the most important role: cybersecurity, secure communications, and supply chain management. Since security is the top priority for the military industry, blockchain could be a good option for bringing new approaches to keep important data safe and secure.
+
+According to CyberMiles’ co-founder, Dr. Michael Yuan:
+
+"Smart contracts ensure compliance while eliminating unnecessary middlemen from the process (not to mention limiting systemic waste, fraud, and abuse). When it comes to the military and defense contractors or suppliers, improving transparency is another significant use case for blockchain technology."
+
+Consider that:
+
+- Procurement will be able to view the entire product lifecycle at the point of purchase.
+- Quality assurance sensors can track the location of materials within the supply chain.
+- The efficiency of shipping and receiving can be greatly improved (as with automation).
+
+Read more about the increased data security and cost savings at https://artoftech.us/smart-contract-is-a-boon-for-the-defense-industry.
+
+Four Ways to Use Blockchain in the Supply Chain
+
+As blockchain technology enters its 11th year, its use in the supply chain is burgeoning. Here are some of the areas that are garnering the most interest.
+
+The supply chain has become a powerful differentiator in the age of demanding customers and global complexity. To address this challenge, many companies are turning to next-generation technologies, including blockchain.
+
+Eliminating the so-called middleman is one. According to Dr. Yuan:
+
+"Suppliers are able to extend credit to buyers and receive near-instant payment on their approved invoices, said Michael Yuan, a technologist and chief scientist at CyberMiles, a public blockchain protocol based in Hong Kong. Buyers are then able to receive extended invoice due dates, which can be double the original length of time.
+
+"Smart contracts are a boon for supply chain management, as they are meant to increase transparency, ensure proper authentication, limit fraud and eliminate unnecessary middlemen from the process, Yuan said. The result is savings for buyers, suppliers and end users."
+
+Learn more at https://searcherp.techtarget.com/feature/4-ways-to-use-blockchain-in-the-supply-chain.
+
+Blockchain Is on the Way But Adoption Is Slow
+
+Given that blockchain first emerged 10 years ago, Gartner’s recent finding that the business impact of blockchain will be transformational in 5-10 years is surprising. Blockchain, especially over the past year or so, has become a business buzzword and everyone is looking for the best way to apply it.
+
+According to the 2019 Gartner Hype Cycle for Blockchain, however, it very well could be another decade before the technology becomes truly transformational across most industries.
+
+Dr. Michael Yuan, CyberMiles’ co-founder and chief scientist, notes that there are three principle issues at play:
+
+1. Significant investment
+
+"Incorporating blockchain technology into businesses and industries is a significant investment, requiring substantial time, money and effort. In addition to the still significant amount of institutional resistance, there are operational and technical challenges that have inhibited mainstream adoption of blockchain technology."
+
+2. Standardized middleware
+
+"For developers to create usable distributed applications, there needs to be a viable blockchain protocol to support ‘smart business contracts.’ Such a protocol must include not only a virtual machine, but also a middleware software stack outside of the blockchain. (Today this is handled by so-called ‘DApps’ in a non-standard way.) While running the blockchain ledger, every node in the blockchain can support standardized middleware."
+
+3. Reusable software
+
+"As with successful enterprise software, the key is not to create an all-powerful virtual machine or programming language, but to build an extensive library of reusable software components — and then standardize the whole stack."
+
+Learn more at https://www.cmswire.com/information-management/blockchain-is-on-the-way-but-adoption-is-slow.
