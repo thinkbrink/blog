@@ -1,0 +1,76 @@
+Greetings, CyberMilers! A MainNet upgrade, anniversary, staking and more; read on for these as well as other blockchain and cryptocurrency news
+
+Announcements
+
+CyberMiles MainNet software upgrade: v0.1.10-beta complete
+
+CyberMiles has completed a MainNet upgrade, resuming producing blocks while:
+- Fixing the award-per-block for CyberMiles’ blockchain
+- Enabling all users to (cleanly) unstake, with funds available to withdraw within eight days
+- Supporting JSON parsing in smart contracts via our virtual machine
+
+Thanks to Binance and OKEx who supported this upgrade. Learn more about our MainNet enhancements at https://blog.cybermiles.io/post/20191028-mainnetupgrade-en.
+
+CyberMiles Token (CMT) staking yield up to 20%
+
+Did you know that, when you stake your CMT, you now can earn up to a 20% yield? It’s simple and easy: http://www.staking.cybermiles.io
+
+Pro Talk: Creating a rules language for the Ethereum virtual machine
+
+DeveloperWeek Austin, one of the largest developer events in the U.S., is set to take place in Texas, with more than 2,000 application developers, engineers, etc. as well as over 100 speakers. Among the speakers: CyberMiles’ own Dr. Michael Yuan, current CEO of SecondState.
+
+Dr. Yuan, who also serves on the DeveloperWeek advisory board, will speak to the Ethereum virtual machine, and the CyberMiles Foundation’s and Second State’s aligned efforts to create an EVM rules language.
+
+For more information, visit https://developerweekaustin2019.sched.com/speaker/michael_yuan.1zyf1f61.
+
+ICYMI: Anniversary of CyberMiles’ MainNet release
+
+CyberMiles introduced a bounty program in celebration of the one-year anniversary of CyberMiles’ MainNet release. This bounty, the total reward of which was 30,000 CMT, occured via WeBounty. Be sure to join CyberMiles on Telegram and Twitter: http://twitter.com/cybermiles.
+
+In the News
+
+Facebook’s cryptocurrency: What to know about Libra
+
+Though Bitcoin has been around since 2009, it took a few years for the general, non-dark-web-dwelling public to take notice to crypto’s enormous value — both as a tool for unregulated, private e-commerce and as an investment with potentially enormous returns (or losses).
+
+Slowly but surely, however, cryptocurrency has undergone an evolution from an anonymous, obscure way to buy, magic mushrooms on the Silk Road to a major, codified digital finance tool. And while it remains in many ways an unstable asset, it definitely is growing.
+
+Enter Facebook. The company’s Libra project aims to offset the unpredictable nature of cryptocurrency while providing a secure, accessible platform for online payments, thus providing a low-risk, user-friendly, encrypted platform for buying and selling goods or services via Facebook Messenger, WhatsApp, and its own dedicated mobile application.
+
+So should you use Libra? According to CyberMiles’ co-founder and the CEO of smart-contract business solution firm, Second State:
+
+"A crypto’s value is not its underlying utility, but how much people believe in it. For the price of Bitcoin, the threat is a collapse in societal consensus — which, in turn, can make it a risky ‘investment.’"
+
+Read Dr. Yuan’s insights on value fluctuations and other considerations at https://centsai.com/life/technology/facebook-cryptocurrency-libra.
+
+What’s the future of — and challenges to — blockchain adoption in payments? CyberMiles’ co-founder weighs in
+
+Along with stronger information security, mobile payments are becoming more mainstream in both developed countries and emerging economies. According to Dr. Lucas Lu, CyberMiles’ co-founder:
+
+"Globally, many consumers still don’t have credit, [but] the concept of ‘stable coins’ (i.e. fiat-tethered digital currencies) may bridge that cap and introduce e-commerce to more people in more markets."
+
+Though Bitcoin was conceived as “a peer-to-peer electronic cash system” originally, today it is primarily a store of value — i.e. digital gold. That Bitcoin is out of reach of most of the world’s poor is largely why it has not succeeded as a payment system. According to Dr. Lu:
+
+"Newer developments (such as Facebook’s Libra coin) have led to a burgeoning ‘arms race’ to become the electronic cash of tomorrow. Regardless of who — or rather what — wins out, can the poor and unbanked be helped to integrate into the world’s financial system? That will be the key measure of success."
+
+To read more about stable coins and other futuristic solutions in the payments space, visit coinratecap.com and disruptordaily.com.
+
+Interoperability is not the only obstacle to blockchain adoption
+
+The will-we-won’t-we discussion that has dominated blockchain and its potential widespread use has revolved around technology, and whether it is practical to bring it into everyday enterprise. There are other considerations, however.
+
+According to Dr. Michael Yuan, CyberMiles’ chief scientist, incorporating blockchain technology into businesses and industries is a big investment, requiring substantial time, money and effort. In addition to the still significant amount of institutional resistance, operational and technical challenges exist, which have inhibited mainstream adoption of blockchain technology. Now how do we overcome this?
+
+1. Standardized Middleware
+
+For developers to create usable distributed applications, there needs to be a viable blockchain protocol to support “smart business contracts.” Such a protocol must include not only a virtual machine, but also a middleware software stack outside of the blockchain. (Today this is handled by so-called “DApps” in a non-standard way.) While running the blockchain ledger, every node in the blockchain can support standardized middleware.
+
+2. Reusable Software
+
+As with successful enterprise software, the key is not to create an all-powerful virtual machine or programming language, but to build an extensive library of reusable software components — and then standardize the whole stack. Take the Linux operating system, for example. It was widely adopted by enterprise users only after the community had extended the core operating system with thousands of business-friendly software packages (and after Fedora/Red Hat came along to standardize the stack). The strengths of enterprise platforms lie in their standardized libraries and frameworks.
+
+3. Connecting Blockchains
+
+Cosmos, the much-anticipated network that was designed to improve blockchain interoperability, released its live software earlier this year. Is that the breakthrough? It’s too soon to say, but crucial in a high-performance environment, where computing power and network latency are typically not a concern, is the design for reliability and interoperability in enterprise applications. It’s why blockchain is already moving from just another IT function to a true ecosystem builder — not if, but when.
+
+Read more at https://www.cmswire.com/information-management/interoperability-is-not-the-only-obstacle-to-blockchain-adoption.
